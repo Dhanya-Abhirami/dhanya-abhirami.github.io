@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dhanya-abhirami.github.io/test-pages/sitemap.xml

@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dhanya-abhirami.github.io/categories/</loc>
+    <loc>https://dhanya-abhirami.github.io/test-pages/categories/</loc>
   </url><url>
-    <loc>http://dhanya-abhirami.github.io/</loc>
+    <loc>https://dhanya-abhirami.github.io/test-pages/</loc>
   </url><url>
-    <loc>http://dhanya-abhirami.github.io/tags/</loc>
+    <loc>https://dhanya-abhirami.github.io/test-pages/tags/</loc>
   </url>
 </urlset>
