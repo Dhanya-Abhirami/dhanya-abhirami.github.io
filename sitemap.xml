@@ -11,8 +11,7 @@
     <loc>https://dhanya-abhirami.github.io/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://dhanya-abhirami.github.io/uses/</loc>
-    <priority>0</priority>
+    <loc>https://dhanya-abhirami.github.io/about/</loc>
   </url><url>
     <loc>https://dhanya-abhirami.github.io/archives/</loc>
   </url><url>
@@ -23,5 +22,7 @@
     <loc>https://dhanya-abhirami.github.io/tags/</loc>
   </url><url>
     <loc>https://dhanya-abhirami.github.io/talks/</loc>
+  </url><url>
+    <loc>https://dhanya-abhirami.github.io/uses/</loc>
   </url>
 </urlset>
