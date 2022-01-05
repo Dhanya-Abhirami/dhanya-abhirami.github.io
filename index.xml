@@ -9,9 +9,18 @@
       <link>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Important post</title>
+      <title>Sublime Text Setup</title>
+      <link>https://dhanya-abhirami.github.io/posts/sublime-setup/</link>
+      <pubDate>Tue, 04 Jan 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://dhanya-abhirami.github.io/posts/sublime-setup/</guid>
+      <description>Editor Setup  Sublime Text/CLion/Geany Sublime Text Sublime Input Plugin Sublime Snippet  </description>
+    </item>
+    
+    <item>
+      <title>Genesis Block</title>
       <link>https://dhanya-abhirami.github.io/posts/welcome/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
@@ -58,13 +67,7 @@ Python 101 2018 | ACM VIT | Material | VIT Vellore, India</description>
       
       <guid>https://dhanya-abhirami.github.io/uses/</guid>
       <description>Listing some productivity tools in my arsenal.1
-  Browser : Brave
-  Editor : VS Code
-  PocketTube Browser Extension
-  Grammarly Browser Extension
-  Markmap VS Code Extension
-  Music Player : Spotify
-    Inspired by /uses&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+ Browser : Brave Editor : VS Code PocketTube Browser Extension Hiding Youtube Suggestions + Comments  www.youtube.com###secondary www.youtube.com###sections  Grammarly Browser Extension Note Taking : VS Code + Markmap VS Code Extension Music Player : Spotify    Inspired by /uses&amp;#160;&amp;#x21a9;&amp;#xfe0e;
    </description>
     </item>
     
