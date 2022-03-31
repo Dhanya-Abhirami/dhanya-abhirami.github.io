@@ -20,30 +20,21 @@
     </item>
     
     <item>
-      <title>UX</title>
-      <link>https://dhanya-abhirami.github.io/posts/ux/</link>
-      <pubDate>Wed, 02 Mar 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://dhanya-abhirami.github.io/posts/ux/</guid>
-      <description>UX Resources  Goprotoz  Design Systems  Spotify Design Systems Wiki  </description>
-    </item>
-    
-    <item>
-      <title>Sublime Text Setup</title>
-      <link>https://dhanya-abhirami.github.io/posts/sublime-setup/</link>
-      <pubDate>Tue, 04 Jan 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://dhanya-abhirami.github.io/posts/sublime-setup/</guid>
-      <description>Editor Setup  Sublime Text/CLion/Geany Sublime Text Sublime Input Plugin Sublime Snippet  </description>
-    </item>
-    
-    <item>
       <title>Running Periodic Job</title>
       <link>https://dhanya-abhirami.github.io/posts/cron-job/</link>
       <pubDate>Sun, 20 Dec 2020 11:30:03 +0000</pubDate>
       
       <guid>https://dhanya-abhirami.github.io/posts/cron-job/</guid>
       <description>Cron  </description>
+    </item>
+    
+    <item>
+      <title>My Competitive Coding Setup</title>
+      <link>https://dhanya-abhirami.github.io/posts/sublime-setup/</link>
+      <pubDate>Sat, 04 Jan 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://dhanya-abhirami.github.io/posts/sublime-setup/</guid>
+      <description>Sublime Text Editor  Sublime Text/CLion/Geany Sublime Text Sublime Input Plugin Sublime Snippet  Visuals  https://cfviz.netlify.app/ CFAnalytics Extension  </description>
     </item>
     
   </channel>
