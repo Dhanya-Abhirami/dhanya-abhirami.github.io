@@ -30,11 +30,11 @@
     
     <item>
       <title>My Competitive Coding Setup</title>
-      <link>https://dhanya-abhirami.github.io/posts/sublime-setup/</link>
+      <link>https://dhanya-abhirami.github.io/posts/cp-setup/</link>
       <pubDate>Sat, 04 Jan 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://dhanya-abhirami.github.io/posts/sublime-setup/</guid>
-      <description>Sublime Text Editor  Sublime Text/CLion/Geany Sublime Text Sublime Input Plugin Sublime Snippet  Visuals  https://cfviz.netlify.app/ CFAnalytics Extension  </description>
+      <guid>https://dhanya-abhirami.github.io/posts/cp-setup/</guid>
+      <description>Sublime Text Editor  Sublime Text/CLion/Geany Sublime Text Sublime Input Plugin Sublime Snippet  Visuals  https://cfviz.netlify.app/ CFAnalytics Extension  Shell Utilities # Prepare practice set from solved questions find . -type f -name &amp;#34;*.cpp&amp;#34; | shuf -n 5 # Revise topic from notes find . -type f -name &amp;#34;*.md&amp;#34; | shuf -n 1 </description>
     </item>
     
   </channel>
