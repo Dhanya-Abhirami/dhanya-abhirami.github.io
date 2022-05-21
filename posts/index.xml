@@ -11,12 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Mar 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Managing Application Logs</title>
+      <title>Using Logback to manage Application Logs</title>
       <link>https://dhanya-abhirami.github.io/posts/log-rolling/</link>
       <pubDate>Sun, 27 Mar 2022 11:30:03 +0000</pubDate>
       
       <guid>https://dhanya-abhirami.github.io/posts/log-rolling/</guid>
-      <description>Log Rolling/Rotation Time Based  Max History  Size and Time Based  Max Size Capacity  logging policy </description>
+      <description>Log Rolling/Rotation Time Based  Max History  Size and Time Based  Max Size Capacity  logging policy Acheiving based on time and size - with date+incremental index each file should be at most 20 MB, keep 30 days of history but at most 1GB
+References https://logback.qos.ch/access.html https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html</description>
     </item>
     
     <item>
