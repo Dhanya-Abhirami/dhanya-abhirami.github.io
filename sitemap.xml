@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dhanya-abhirami.github.io/tags/book-summary/</loc>
+    <lastmod>2022-10-17T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://dhanya-abhirami.github.io/</loc>
     <lastmod>2022-10-17T11:30:03+00:00</lastmod>
   </url><url>
@@ -10,6 +13,12 @@
   </url><url>
     <loc>https://dhanya-abhirami.github.io/posts/</loc>
     <lastmod>2022-10-17T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://dhanya-abhirami.github.io/tags/</loc>
+    <lastmod>2022-10-17T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://dhanya-abhirami.github.io/tags/tech/</loc>
+    <lastmod>2022-03-27T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://dhanya-abhirami.github.io/posts/log-rolling/</loc>
     <lastmod>2022-03-27T11:30:03+00:00</lastmod>
@@ -29,8 +38,6 @@
     <loc>https://dhanya-abhirami.github.io/now/</loc>
   </url><url>
     <loc>https://dhanya-abhirami.github.io/principles/</loc>
-  </url><url>
-    <loc>https://dhanya-abhirami.github.io/tags/</loc>
   </url><url>
     <loc>https://dhanya-abhirami.github.io/talks/</loc>
   </url><url>
