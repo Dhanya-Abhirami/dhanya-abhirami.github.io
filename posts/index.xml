@@ -9,7 +9,16 @@
       <link>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Oct 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Conferences</title>
+      <link>https://dhanya-abhirami.github.io/posts/conferences-attended/</link>
+      <pubDate>Sun, 07 May 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://dhanya-abhirami.github.io/posts/conferences-attended/</guid>
+      <description>   Date Conference Location     Sept 2018 PySangamam IIT Madras   Oct 2018 PyCon India Hyderabad International Convention Centre   Sept 2020 Atlassian Campus Dialogues Online   Aug 2021 Building solutions that scale @ Uber Online   Jul 2022 Evolution of Infra at Uber Online   Oct 2022 Yelping From Home Online   Sept 2022 Devfest Bangalore The LaLiT Ashok Bangalore   Dec 2022 Meet the Women@Uber Engineering Online   Mar 2023 Women Techmakers International Women&amp;rsquo;s Day Hilton Bengaluru Embassy - Manyata Business Park Bangalore    </description>
+    </item>
+    
     <item>
       <title>Ignited Minds - A Book Summary</title>
       <link>https://dhanya-abhirami.github.io/posts/ignited-minds/</link>
