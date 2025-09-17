@@ -9,34 +9,30 @@
       <url>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://dhanya-abhirami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://dhanya-abhirami.github.io/tags/tech/</link>
       <pubDate>Sun, 07 May 2023 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/tags/tech/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>book-shelf</title>
+      <title>Book-Shelf</title>
       <link>https://dhanya-abhirami.github.io/tags/book-shelf/</link>
       <pubDate>Mon, 17 Oct 2022 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/tags/book-shelf/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vision</title>
+      <title>Vision</title>
       <link>https://dhanya-abhirami.github.io/tags/vision/</link>
       <pubDate>Tue, 17 Jan 2017 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/tags/vision/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

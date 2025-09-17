@@ -9,122 +9,288 @@
       <url>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech Conferences</title>
       <link>https://dhanya-abhirami.github.io/posts/tech-conferences/</link>
       <pubDate>Sun, 07 May 2023 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/tech-conferences/</guid>
-      <description>   Date Conference Location     Sept 2018 PySangamam IIT Madras   Oct 2018 PyCon India Hyderabad International Convention Centre   Sept 2020 Atlassian Campus Dialogues Online   Aug 2021 Building solutions that scale @ Uber Online   Jul 2022 Evolution of Infra at Uber Online   Oct 2022 Yelping From Home Online   Sept 2022 Devfest Bangalore The LaLiT Ashok Bangalore   Dec 2022 Meet the Women@Uber Engineering Online   Mar 2023 Women Techmakers International Women&amp;rsquo;s Day Hilton Bengaluru Embassy - Manyata Business Park Bangalore   May 2023 Uber Data-Con RGA Tech Park Bangalore   Aug 2023 Booking Holdings TechConnect - AI &amp;amp; The Future of Travel RMZ Ecoworld Bangalore   Jan 2024 Uber Spark Meetup RGA Tech Park Bangalore    </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Conference&lt;/th&gt;
+          &lt;th&gt;Location&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2018&lt;/td&gt;
+          &lt;td&gt;PySangamam&lt;/td&gt;
+          &lt;td&gt;IIT Madras&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oct 2018&lt;/td&gt;
+          &lt;td&gt;PyCon India&lt;/td&gt;
+          &lt;td&gt;Hyderabad International Convention Centre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2020&lt;/td&gt;
+          &lt;td&gt;Atlassian Campus Dialogues&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aug 2021&lt;/td&gt;
+          &lt;td&gt;Building solutions that scale @ Uber&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jul 2022&lt;/td&gt;
+          &lt;td&gt;Evolution of Infra at Uber&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oct 2022&lt;/td&gt;
+          &lt;td&gt;Yelping From Home&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2022&lt;/td&gt;
+          &lt;td&gt;Devfest Bangalore&lt;/td&gt;
+          &lt;td&gt;The LaLiT Ashok Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dec 2022&lt;/td&gt;
+          &lt;td&gt;Meet the Women@Uber Engineering&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mar 2023&lt;/td&gt;
+          &lt;td&gt;Women Techmakers International Women&amp;rsquo;s Day&lt;/td&gt;
+          &lt;td&gt;Hilton Bengaluru Embassy - Manyata Business Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;May 2023&lt;/td&gt;
+          &lt;td&gt;Uber Data-Con&lt;/td&gt;
+          &lt;td&gt;RGA Tech Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aug 2023&lt;/td&gt;
+          &lt;td&gt;Booking Holdings TechConnect - AI &amp;amp; The Future of Travel&lt;/td&gt;
+          &lt;td&gt;RMZ Ecoworld Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jan 2024&lt;/td&gt;
+          &lt;td&gt;Uber Spark Meetup&lt;/td&gt;
+          &lt;td&gt;RGA Tech Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
     <item>
       <title>Ignited Minds - A Book Summary</title>
       <link>https://dhanya-abhirami.github.io/posts/ignited-minds/</link>
       <pubDate>Mon, 17 Oct 2022 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/ignited-minds/</guid>
-      <description>Problems in modern India​ India has unlimited potential in terms of resources, education, business, energy.​ Yet we are in Self-destruction mode due to​
- Faltering economy​ Rampaging poverty​ Dependence on foreign nations​ Disharmony among diverse groups  Key Takeaways​  Youth rise to the occasion - learn, innovate and push the boundaries​ Wholesome education.​ Scientific temper and a spirit of enquiry​ Change in attitude( of limited achievement) and aptitude ​ Grab the opportunity or create the opportunity​ Patriotism beyond Politics and Religion​ Investments in Nuclear resources​  </description>
+      <description>&lt;h2 id=&#34;problems-in-modern-india&#34;&gt;Problems in modern India​&lt;/h2&gt;
+&lt;p&gt;India has unlimited potential in terms of resources, education, business, energy.​ Yet we are in Self-destruction mode due to​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faltering economy​&lt;/li&gt;
+&lt;li&gt;Rampaging poverty​&lt;/li&gt;
+&lt;li&gt;Dependence on foreign nations​&lt;/li&gt;
+&lt;li&gt;Disharmony among diverse groups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways​&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Youth rise to the occasion - learn, innovate and push the boundaries​&lt;/li&gt;
+&lt;li&gt;Wholesome education.​&lt;/li&gt;
+&lt;li&gt;Scientific temper and a spirit of enquiry​&lt;/li&gt;
+&lt;li&gt;Change in attitude( of limited achievement) and aptitude ​&lt;/li&gt;
+&lt;li&gt;Grab the opportunity or create the opportunity​&lt;/li&gt;
+&lt;li&gt;Patriotism beyond Politics and Religion​&lt;/li&gt;
+&lt;li&gt;Investments in Nuclear resources​&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Using Logback to manage Application Logs</title>
       <link>https://dhanya-abhirami.github.io/posts/log-rolling/</link>
       <pubDate>Sun, 27 Mar 2022 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/log-rolling/</guid>
-      <description>Log Rolling/Rotation Time Based  Max History  Size and Time Based  Max Size Capacity  logging policy Acheiving based on time and size - with date+incremental index each file should be at most 20 MB, keep 30 days of history but at most 1GB
-References https://logback.qos.ch/access.html https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html
-Will be writing a post on Running Periodic Cron Job..</description>
+      <description>&lt;h2 id=&#34;log-rollingrotation&#34;&gt;Log Rolling/Rotation&lt;/h2&gt;
+&lt;h2 id=&#34;time-based&#34;&gt;Time Based&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Max History&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;size-and-time-based&#34;&gt;Size and Time Based&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Max Size&lt;/li&gt;
+&lt;li&gt;Capacity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;logging policy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Acheiving based on time and size - with date+incremental index
+each file should be at most 20 MB, keep 30 days of history but at most 1GB&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://logback.qos.ch/access.html&#34;&gt;https://logback.qos.ch/access.html&lt;/a&gt;
+&lt;a href=&#34;https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html&#34;&gt;https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Will be writing a post on Running Periodic Cron Job..&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My Competitive Coding Setup</title>
       <link>https://dhanya-abhirami.github.io/posts/cp-setup/</link>
       <pubDate>Sat, 04 Jan 2020 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/cp-setup/</guid>
-      <description>Sublime Text Editor  Sublime Text Sublime Text Sublime Input Plugin Sublime Snippet  Visuals  CF Viz CFAnalytics Extension  Shell Utilities # Prepare practice set from solved questions find . -type f -name &amp;#34;*.cpp&amp;#34; | shuf -n 5 # Revise topic from notes find . -type f -name &amp;#34;*.md&amp;#34; | shuf -n 1 </description>
+      <description>&lt;h2 id=&#34;sublime-text-editor&#34;&gt;Sublime Text Editor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/sabuj-jana/my-sublime-text-setup-for-competitive-coding-in-c-e439bd361f23&#34;&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/&#34;&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://packagecontrol.io/packages/Sublime%20Input&#34;&gt;Sublime Input Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/How-can-I-add-my-default-C-C++-code-in-Sublime-Text&#34;&gt;Sublime Snippet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;visuals&#34;&gt;Visuals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cfviz.netlify.app/&#34;&gt;CF Viz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/cf-analytics/hhljbjodjdbjbggddjaidojnlmaobcpo&#34;&gt;CFAnalytics Extension&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;shell-utilities&#34;&gt;Shell Utilities&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Prepare practice set from solved questions&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -type f -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.cpp&amp;#34;&lt;/span&gt; | shuf -n &lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Revise topic from notes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -type f -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.md&amp;#34;&lt;/span&gt; | shuf -n &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>The importance of education in National Integration</title>
       <link>https://dhanya-abhirami.github.io/posts/education-national-integration/</link>
       <pubDate>Tue, 17 Jan 2017 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/education-national-integration/</guid>
-      <description>The beauty of a garden lies in the varieties of flowers it holds. No one would like a garden if it has a single type of flower. It is nature’s dictum that all different things should co-exist together. Similarly, the beauty of our world lies in the diversity of people with their cultures interwoven.
-India is multi-cultural multi-lingual country since ages. With its different facets in every turn – be it religion, language, race, castes, it presents a different beautiful picture.</description>
+      <description>&lt;p&gt;The beauty of a garden lies in the varieties of flowers it holds. No one would like a garden if it has a single type of flower. It is nature’s dictum that all different things should co-exist together. Similarly, the beauty of our world lies in the diversity of people with their cultures interwoven.&lt;/p&gt;
+&lt;p&gt;India is multi-cultural multi-lingual country since ages. With its different facets in every turn – be it religion, language, race, castes, it presents a different beautiful picture. Diversity is one thing we all have in common. In spite of having such diverse dimensions, one thing we have in common is our affinity to Mother land – India. On Mother India, Mahakavi Subramanya Bharati said, &lt;em&gt;&amp;ldquo;Ival Seppu Mozhi Pathinettudayaal, enir sinthanai ondrudayal&amp;rdquo;&lt;/em&gt;, - which roughly translates as &lt;em&gt;&amp;ldquo;Mother India speaks different languages, but her thought is unified and towards a common goal&amp;rdquo;&lt;/em&gt;. That was the confidence and superiority complex Bharati had a century ago, when the education levels were in pathetic condition and British controlling almost whole of India. Today, after 7 decades of independence, we are definitely far better. However, to develop and make our country a leader in the world, we need to take all our people together. To nurture and develop the spirit of national integration, education acts as a catalyst.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How &#39;MAKE IN INDIA&#39; can succeed ?</title>
       <link>https://dhanya-abhirami.github.io/posts/make-in-india/</link>
       <pubDate>Thu, 31 Mar 2016 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/make-in-india/</guid>
-      <description>Make In India is an initiative launched by our Government to encourage multi-national, as well as national companies to manufacture their products in India. The objective of this initiative is to transform India into a global design and manufacturing hub.
-Our country has 16% of world population. So, in pure technical sense, one in six objects produced anywhere in the world should find its market in India. If we become self-reliant in our requirements, the precious foreign exchange will not go out of our country.</description>
+      <description>&lt;p&gt;Make In India is an initiative launched by our Government to encourage multi-national, as well as national companies to manufacture their products in India. The objective of this initiative is to transform India into a global design and manufacturing hub.&lt;/p&gt;
+&lt;p&gt;Our country has 16% of world population. So, in pure technical sense, one in six objects produced anywhere in the world should find its market in India.  If we become self-reliant in our requirements, the precious foreign exchange will not go out of our country. For achieving this, we need to focus on areas like quality, reliability, variety, affordability, which are vital for any product to survive the cut-throat competition posed by mighty giants from abroad. We should achieve international standards in all these aspects. In today’s world, survival holds the key to success.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://dhanya-abhirami.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/about/</guid>
-      <description>Hi there 👋
-Hi! I am Dhanya Abhirami, currently working as a Senior Software Engineer at Visa and an alumnus of Vellore Institute of Technology, Vellore, India graduated with B.Tech in Computer Science and Engineering in 2020.
-I constantly look for patterns in everything I observe. Outside of technology I love traveling on less-traveled roads. I am always on hunt for great landscapes, sunrises and sunsets.
-Favorite Quote : Difficult tasks must be given to lazy people because they find easier way of doing them.</description>
+      <description>&lt;p&gt;Hi there 👋&lt;/p&gt;
+&lt;p&gt;Hi! I am Dhanya Abhirami, currently working as a Senior Software Engineer at &lt;a href=&#34;https://www.visa.com/&#34;&gt;Visa&lt;/a&gt; and an alumnus of &lt;a href=&#34;https://vit.ac.in/&#34;&gt;Vellore Institute of Technology, Vellore, India&lt;/a&gt; graduated with B.Tech in Computer Science and Engineering in 2020.&lt;/p&gt;
+&lt;p&gt;I constantly look for patterns in everything I observe.
+Outside of technology I love traveling on less-traveled roads. I am always on hunt for great landscapes, sunrises and sunsets.&lt;/p&gt;
+&lt;p&gt;Favorite Quote : Difficult tasks must be given to lazy people because they find easier way of doing them.&lt;/p&gt;</description>
     </item>
-    
-    
     <item>
       <title>Now</title>
       <link>https://dhanya-abhirami.github.io/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/now/</guid>
-      <description>Updates about what I&amp;rsquo;m up to lately.1
- Learning German. Learning to solve Rubik&amp;rsquo;s Cube. Trying my hand at fingerstyle Ukulele. Developing culinary skills. Sweating out at the gym.    Derek Siver&amp;rsquo;s movement for creating a &amp;ldquo;now&amp;rdquo; page&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
+      <description>&lt;p&gt;Updates about what I&amp;rsquo;m up to lately.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning &lt;a href=&#34;https://www.duolingo.com/profile/Dhanya200322?via=share_profile&#34;&gt;German&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learning to solve &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik&#39;s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Trying my hand at &lt;a href=&#34;https://en.wikipedia.org/wiki/Fingerstyle_guitar&#34;&gt;fingerstyle&lt;/a&gt; Ukulele.&lt;/li&gt;
+&lt;li&gt;Developing culinary skills.&lt;/li&gt;
+&lt;li&gt;Sweating out at the gym.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Derek Siver&amp;rsquo;s movement for &lt;a href=&#34;https://nownownow.com/about&#34;&gt;creating a &lt;strong&gt;&amp;ldquo;now&amp;rdquo;&lt;/strong&gt; page&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Principles</title>
       <link>https://dhanya-abhirami.github.io/principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/principles/</guid>
-      <description>Some thoughts I firmly believe on.1
- Reservation is not a measure of talent.    Inspired by Den Delimarsky&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
+      <description>&lt;p&gt;Some thoughts I firmly believe on.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reservation is not a measure of talent.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Inspired by &lt;a href=&#34;https://den.dev/how-i-work/&#34;&gt;Den Delimarsky&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://dhanya-abhirami.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/talks/</guid>
-      <description>List of talks/workshops/presentations delivered in reverse chronological order.
-L-Systems Artwork (Lightning Talk) Sept 8,2018 | PySangamam | Material | Recording | IIT Madras, India
-Python 101 2018 | ACM VIT | Material | VIT Vellore, India</description>
+      <description>&lt;p&gt;List of talks/workshops/presentations delivered in reverse chronological order.&lt;/p&gt;
+&lt;h3 id=&#34;l-systems-artwork-lightning-talk&#34;&gt;L-Systems Artwork (Lightning Talk)&lt;/h3&gt;
+&lt;p&gt;Sept 8,2018 | &lt;a href=&#34;https://pysangamam.org/&#34;&gt;PySangamam&lt;/a&gt; | &lt;a href=&#34;https://github.com/Dhanya-Abhirami/Kolam&#34;&gt;Material&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Gjgq2Ge05uA?t=397&#34;&gt;Recording&lt;/a&gt; | IIT Madras, India&lt;/p&gt;
+&lt;h3 id=&#34;python-101&#34;&gt;Python 101&lt;/h3&gt;
+&lt;p&gt;2018 | &lt;a href=&#34;https://www.facebook.com/acmvitvellore/&#34;&gt;ACM VIT&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1ggBctrM96_Vp_lm886lr7q6vnCAO8dUq/edit?usp=sharing&amp;amp;ouid=116825395923652303176&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Material&lt;/a&gt; | VIT Vellore, India&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Uses</title>
       <link>https://dhanya-abhirami.github.io/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/uses/</guid>
-      <description>Listing some productivity tools in my arsenal.1
- Browser : Brave OneTab Extention Browser Extension For Development  Editor : VS Code   For Youtube  PocketTube Browser Extension BlockTube Browser Extension Clickbait Remover for Youtube Browser Extension Hiding Youtube Suggestions + Comments www.youtube.com###secondarywww.youtube.com###sections   Writing  Grammarly Browser Extension Hemingway   Note Taking  Obsidian VS Code + Markmap VS Code Extension   Music  Spotify      Inspired by /uses&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <description>&lt;p&gt;Listing some productivity tools in my arsenal.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Browser&lt;/strong&gt; : &lt;a href=&#34;https://brave.com/&#34;&gt;Brave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en&#34;&gt;OneTab&lt;/a&gt; Extention Browser Extension&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For Development&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Editor : &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For Youtube&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb?hl=en-US&#34;&gt;PocketTube&lt;/a&gt; Browser Extension&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai?pli=1&#34;&gt;BlockTube&lt;/a&gt; Browser Extension&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en&#34;&gt;Clickbait Remover for Youtube&lt;/a&gt; Browser Extension&lt;/li&gt;
+&lt;li&gt;Hiding Youtube Suggestions + Comments
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;www.youtube.com###secondary
+www.youtube.com###sections
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-US&#34;&gt;Grammarly&lt;/a&gt; Browser Extension&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hemingwayapp.com/&#34;&gt;Hemingway&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Note Taking&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Obsidian&lt;/li&gt;
+&lt;li&gt;VS Code + &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode&#34;&gt;Markmap&lt;/a&gt; VS Code Extension&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Music&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Inspired by &lt;a href=&#34;https://uses.tech/&#34;&gt;/uses&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

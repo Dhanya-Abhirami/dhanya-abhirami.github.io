@@ -1,44 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>tech on Dhanya Abhirami</title>
+    <title>Tech on Dhanya Abhirami</title>
     <link>https://dhanya-abhirami.github.io/tags/tech/</link>
-    <description>Recent content in tech on Dhanya Abhirami</description>
+    <description>Recent content in Tech on Dhanya Abhirami</description>
     <image>
       <title>Dhanya Abhirami</title>
       <url>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://dhanya-abhirami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://dhanya-abhirami.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://dhanya-abhirami.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech Conferences</title>
       <link>https://dhanya-abhirami.github.io/posts/tech-conferences/</link>
       <pubDate>Sun, 07 May 2023 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/tech-conferences/</guid>
-      <description>   Date Conference Location     Sept 2018 PySangamam IIT Madras   Oct 2018 PyCon India Hyderabad International Convention Centre   Sept 2020 Atlassian Campus Dialogues Online   Aug 2021 Building solutions that scale @ Uber Online   Jul 2022 Evolution of Infra at Uber Online   Oct 2022 Yelping From Home Online   Sept 2022 Devfest Bangalore The LaLiT Ashok Bangalore   Dec 2022 Meet the Women@Uber Engineering Online   Mar 2023 Women Techmakers International Women&amp;rsquo;s Day Hilton Bengaluru Embassy - Manyata Business Park Bangalore   May 2023 Uber Data-Con RGA Tech Park Bangalore   Aug 2023 Booking Holdings TechConnect - AI &amp;amp; The Future of Travel RMZ Ecoworld Bangalore   Jan 2024 Uber Spark Meetup RGA Tech Park Bangalore    </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Conference&lt;/th&gt;
+          &lt;th&gt;Location&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2018&lt;/td&gt;
+          &lt;td&gt;PySangamam&lt;/td&gt;
+          &lt;td&gt;IIT Madras&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oct 2018&lt;/td&gt;
+          &lt;td&gt;PyCon India&lt;/td&gt;
+          &lt;td&gt;Hyderabad International Convention Centre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2020&lt;/td&gt;
+          &lt;td&gt;Atlassian Campus Dialogues&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aug 2021&lt;/td&gt;
+          &lt;td&gt;Building solutions that scale @ Uber&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jul 2022&lt;/td&gt;
+          &lt;td&gt;Evolution of Infra at Uber&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oct 2022&lt;/td&gt;
+          &lt;td&gt;Yelping From Home&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sept 2022&lt;/td&gt;
+          &lt;td&gt;Devfest Bangalore&lt;/td&gt;
+          &lt;td&gt;The LaLiT Ashok Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dec 2022&lt;/td&gt;
+          &lt;td&gt;Meet the Women@Uber Engineering&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mar 2023&lt;/td&gt;
+          &lt;td&gt;Women Techmakers International Women&amp;rsquo;s Day&lt;/td&gt;
+          &lt;td&gt;Hilton Bengaluru Embassy - Manyata Business Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;May 2023&lt;/td&gt;
+          &lt;td&gt;Uber Data-Con&lt;/td&gt;
+          &lt;td&gt;RGA Tech Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aug 2023&lt;/td&gt;
+          &lt;td&gt;Booking Holdings TechConnect - AI &amp;amp; The Future of Travel&lt;/td&gt;
+          &lt;td&gt;RMZ Ecoworld Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jan 2024&lt;/td&gt;
+          &lt;td&gt;Uber Spark Meetup&lt;/td&gt;
+          &lt;td&gt;RGA Tech Park Bangalore&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
     <item>
       <title>Using Logback to manage Application Logs</title>
       <link>https://dhanya-abhirami.github.io/posts/log-rolling/</link>
       <pubDate>Sun, 27 Mar 2022 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/log-rolling/</guid>
-      <description>Log Rolling/Rotation Time Based  Max History  Size and Time Based  Max Size Capacity  logging policy Acheiving based on time and size - with date+incremental index each file should be at most 20 MB, keep 30 days of history but at most 1GB
-References https://logback.qos.ch/access.html https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html
-Will be writing a post on Running Periodic Cron Job..</description>
+      <description>&lt;h2 id=&#34;log-rollingrotation&#34;&gt;Log Rolling/Rotation&lt;/h2&gt;
+&lt;h2 id=&#34;time-based&#34;&gt;Time Based&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Max History&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;size-and-time-based&#34;&gt;Size and Time Based&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Max Size&lt;/li&gt;
+&lt;li&gt;Capacity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;logging policy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Acheiving based on time and size - with date+incremental index
+each file should be at most 20 MB, keep 30 days of history but at most 1GB&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://logback.qos.ch/access.html&#34;&gt;https://logback.qos.ch/access.html&lt;/a&gt;
+&lt;a href=&#34;https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html&#34;&gt;https://dennis-xlc.gitbooks.io/the-logback-manual/content/en/chapter-4-appenders/logback-core/rollingfileappender/size-and-time-based-rolling-policy.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Will be writing a post on Running Periodic Cron Job..&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My Competitive Coding Setup</title>
       <link>https://dhanya-abhirami.github.io/posts/cp-setup/</link>
       <pubDate>Sat, 04 Jan 2020 11:30:03 +0000</pubDate>
-      
       <guid>https://dhanya-abhirami.github.io/posts/cp-setup/</guid>
-      <description>Sublime Text Editor  Sublime Text Sublime Text Sublime Input Plugin Sublime Snippet  Visuals  CF Viz CFAnalytics Extension  Shell Utilities # Prepare practice set from solved questions find . -type f -name &amp;#34;*.cpp&amp;#34; | shuf -n 5 # Revise topic from notes find . -type f -name &amp;#34;*.md&amp;#34; | shuf -n 1 </description>
+      <description>&lt;h2 id=&#34;sublime-text-editor&#34;&gt;Sublime Text Editor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/sabuj-jana/my-sublime-text-setup-for-competitive-coding-in-c-e439bd361f23&#34;&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/&#34;&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://packagecontrol.io/packages/Sublime%20Input&#34;&gt;Sublime Input Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quora.com/How-can-I-add-my-default-C-C++-code-in-Sublime-Text&#34;&gt;Sublime Snippet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;visuals&#34;&gt;Visuals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cfviz.netlify.app/&#34;&gt;CF Viz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/cf-analytics/hhljbjodjdbjbggddjaidojnlmaobcpo&#34;&gt;CFAnalytics Extension&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;shell-utilities&#34;&gt;Shell Utilities&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Prepare practice set from solved questions&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -type f -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.cpp&amp;#34;&lt;/span&gt; | shuf -n &lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Revise topic from notes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -type f -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.md&amp;#34;&lt;/span&gt; | shuf -n &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>
