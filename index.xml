@@ -15,9 +15,9 @@
     <atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech Conferences</title>
-      <link>https://dhanya-abhirami.github.io/posts/tech-conferences/</link>
+      <link>https://dhanya-abhirami.github.io/archives/tech-conferences/</link>
       <pubDate>Sun, 07 May 2023 11:30:03 +0000</pubDate>
-      <guid>https://dhanya-abhirami.github.io/posts/tech-conferences/</guid>
+      <guid>https://dhanya-abhirami.github.io/archives/tech-conferences/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -116,9 +116,9 @@
     </item>
     <item>
       <title>Using Logback to manage Application Logs</title>
-      <link>https://dhanya-abhirami.github.io/posts/log-rolling/</link>
+      <link>https://dhanya-abhirami.github.io/archives/log-rolling/</link>
       <pubDate>Sun, 27 Mar 2022 11:30:03 +0000</pubDate>
-      <guid>https://dhanya-abhirami.github.io/posts/log-rolling/</guid>
+      <guid>https://dhanya-abhirami.github.io/archives/log-rolling/</guid>
       <description>&lt;h2 id=&#34;log-rollingrotation&#34;&gt;Log Rolling/Rotation&lt;/h2&gt;
 &lt;h2 id=&#34;time-based&#34;&gt;Time Based&lt;/h2&gt;
 &lt;ul&gt;
@@ -139,9 +139,9 @@ each file should be at most 20 MB, keep 30 days of history but at most 1GB&lt;/p
     </item>
     <item>
       <title>My Competitive Coding Setup</title>
-      <link>https://dhanya-abhirami.github.io/posts/cp-setup/</link>
+      <link>https://dhanya-abhirami.github.io/archives/cp-setup/</link>
       <pubDate>Sat, 04 Jan 2020 11:30:03 +0000</pubDate>
-      <guid>https://dhanya-abhirami.github.io/posts/cp-setup/</guid>
+      <guid>https://dhanya-abhirami.github.io/archives/cp-setup/</guid>
       <description>&lt;h2 id=&#34;sublime-text-editor&#34;&gt;Sublime Text Editor&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/sabuj-jana/my-sublime-text-setup-for-competitive-coding-in-c-e439bd361f23&#34;&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
@@ -213,21 +213,92 @@ Outside of technology I love traveling on less-traveled roads. I am always on hu
     </item>
     <item>
       <title>Principles</title>
-      <link>https://dhanya-abhirami.github.io/principles/</link>
+      <link>https://dhanya-abhirami.github.io/archives/principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dhanya-abhirami.github.io/principles/</guid>
+      <guid>https://dhanya-abhirami.github.io/archives/principles/</guid>
       <description>&lt;p&gt;Some thoughts I firmly believe on.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Reservation is not a measure of talent.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Inspired by &lt;a href=&#34;https://den.dev/how-i-work/&#34;&gt;Den Delimarsky&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://personalvalu.es/&#34;&gt;https://personalvalu.es/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What matters: define your values
+Instead of seeking a singular purpose, we can derive direction and meaning from a set of personal values.
+Circle a handful of values that resonate with you the most.
+Adventure
+Authenticity
+Autonomy
+Balance
+Beauty
+Belonging
+Calmness
+Caring
+Comfort
+Commitment
+Community
+Compassion
+Competence
+Consistency
+Control
+Courage
+Creativity
+Curiosity
+Decisiveness
+Discipline
+Duty
+Education
+Empathy
+Enlightenment
+Entrepreneurship
+Equality
+Faith
+Fame
+Family
+Focus
+Forgiveness
+Freedom
+Friendship
+Generosity
+Gratitude
+Growth
+Happiness
+Health
+Honesty
+Humility
+Independence
+Individuality
+Justice
+Kindness
+Knowledge
+Life
+Love
+Loyalty
+Nature
+Passion
+Patience
+Peace
+Pleasure
+Power
+Privacy
+Prosperity
+Purpose
+Recognition
+Relationships
+Religion
+Respect
+Responsibility
+Security
+Self-awareness
+Self-esteem
+Simplicity
+Spirituality
+Stability
+Status
+Strength
+Success
+Tradition
+Wealth
+Wellness
+Wisdom&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
@@ -235,6 +306,8 @@ Outside of technology I love traveling on less-traveled roads. I am always on hu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dhanya-abhirami.github.io/talks/</guid>
       <description>&lt;p&gt;List of talks/workshops/presentations delivered in reverse chronological order.&lt;/p&gt;
+&lt;h3 id=&#34;the-art-of-making-memories-tmod-session&#34;&gt;The Art of Making Memories (TMOD Session)&lt;/h3&gt;
+&lt;p&gt;Sept 5,2025 | &lt;a href=&#34;https://in.linkedin.com/company/v-speakers&#34;&gt;VSpeakers&lt;/a&gt; | &lt;a href=&#34;https://www.canva.com/design/DAGxXAwzswc/RByAQ1VFGH_qm2eynBISyA/view?utm_content=DAGxXAwzswc&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=h2e32478cd6&#34;&gt;Material&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;l-systems-artwork-lightning-talk&#34;&gt;L-Systems Artwork (Lightning Talk)&lt;/h3&gt;
 &lt;p&gt;Sept 8,2018 | &lt;a href=&#34;https://pysangamam.org/&#34;&gt;PySangamam&lt;/a&gt; | &lt;a href=&#34;https://github.com/Dhanya-Abhirami/Kolam&#34;&gt;Material&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Gjgq2Ge05uA?t=397&#34;&gt;Recording&lt;/a&gt; | IIT Madras, India&lt;/p&gt;
 &lt;h3 id=&#34;python-101&#34;&gt;Python 101&lt;/h3&gt;
