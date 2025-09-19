@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 May 2023 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://dhanya-abhirami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Joy of Missing Out</title>
+      <link>https://dhanya-abhirami.github.io/posts/jomo/</link>
+      <pubDate>Fri, 25 Jul 2025 11:30:03 +0000</pubDate>
+      <guid>https://dhanya-abhirami.github.io/posts/jomo/</guid>
+      <description>&lt;p&gt;Picture this: It’s a breezy Saturday evening. You’re sitting at home in the balcony, quietly reading a book, sipping your coffee. It’s one of those rare peaceful days—just the way you like it.&lt;/p&gt;
+&lt;p&gt;Then, your phone buzzes. You pick it up and open Instagram.
+Someone you know is out clubbing, posting story after story: the music, the dancing, the food. And another friend shares photos from an exotic resort, swimming in a stunning infinity pool.  All happening without you&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tech Conferences</title>
       <link>https://dhanya-abhirami.github.io/archives/tech-conferences/</link>
@@ -92,9 +101,9 @@
     </item>
     <item>
       <title>Ignited Minds - A Book Summary</title>
-      <link>https://dhanya-abhirami.github.io/posts/ignited-minds/</link>
+      <link>https://dhanya-abhirami.github.io/notes/ignited-minds/</link>
       <pubDate>Mon, 17 Oct 2022 11:30:03 +0000</pubDate>
-      <guid>https://dhanya-abhirami.github.io/posts/ignited-minds/</guid>
+      <guid>https://dhanya-abhirami.github.io/notes/ignited-minds/</guid>
       <description>&lt;h2 id=&#34;problems-in-modern-india&#34;&gt;Problems in modern India​&lt;/h2&gt;
 &lt;p&gt;India has unlimited potential in terms of resources, education, business, energy.​ Yet we are in Self-destruction mode due to​&lt;/p&gt;
 &lt;ul&gt;
@@ -163,6 +172,17 @@ each file should be at most 20 MB, keep 30 days of history but at most 1GB&lt;/p
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Paper Boat – Sailing through Drinks and Memories</title>
+      <link>https://dhanya-abhirami.github.io/posts/paperboat/</link>
+      <pubDate>Fri, 05 Apr 2019 11:30:03 +0000</pubDate>
+      <guid>https://dhanya-abhirami.github.io/posts/paperboat/</guid>
+      <description>&lt;h3 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;This case study describes and analyses the growth of a business that challenged powerful multinational companies.Paper Boat is a beverage company that manufactures authentic Indian traditional juices and drinks. The company used the new age marketing strategies like story-telling to create engaging content.&lt;/p&gt;
+&lt;h3 id=&#34;target-group&#34;&gt;Target Group&lt;/h3&gt;
+&lt;p&gt;This case provides an overview of an indigenous business and is intended to undergraduate students in pre-final and final year of undergraduate courses. This case also adds value to research community and startup training institutions as an example of a small company that stood against the competitive challenge posed by international giants using its unique marketing strategy.
+This case could also be extended to MBA students who can analyse and strategize methodologies for the company to succeed in the market.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The importance of education in National Integration</title>
       <link>https://dhanya-abhirami.github.io/posts/education-national-integration/</link>
       <pubDate>Tue, 17 Jan 2017 11:30:03 +0000</pubDate>
@@ -199,7 +219,6 @@ Outside of technology I love traveling on less-traveled roads. I am always on hu
 &lt;li&gt;Learning &lt;a href=&#34;https://www.duolingo.com/profile/Dhanya200322?via=share_profile&#34;&gt;German&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Learning to solve &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik&#39;s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Trying my hand at &lt;a href=&#34;https://en.wikipedia.org/wiki/Fingerstyle_guitar&#34;&gt;fingerstyle&lt;/a&gt; Ukulele.&lt;/li&gt;
-&lt;li&gt;Developing culinary skills.&lt;/li&gt;
 &lt;li&gt;Sweating out at the gym.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
@@ -331,7 +350,7 @@ Wisdom&lt;/p&gt;</description>
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb?hl=en-US&#34;&gt;PocketTube&lt;/a&gt; Browser Extension&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai?pli=1&#34;&gt;BlockTube&lt;/a&gt; Browser Extension&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en&#34;&gt;Clickbait Remover for Youtube&lt;/a&gt; Browser Extension&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en&#34;&gt;Clickbait Remover&lt;/a&gt; Browser Extension&lt;/li&gt;
 &lt;li&gt;Hiding Youtube Suggestions + Comments
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;www.youtube.com###secondary
 www.youtube.com###sections
